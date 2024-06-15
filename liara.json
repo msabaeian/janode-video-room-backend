@@ -1,0 +1,5 @@
+{
+  "platform": "node",
+  "app": "janode",
+  "port": 3000
+}
